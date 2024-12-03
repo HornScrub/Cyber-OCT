@@ -7,4 +7,4 @@ dog="Lucy"
 car="Ford Focus"
 name2="Jules"
 
-echo "Welcome to the Class $name everyone!"
+echo "Welcome to the Class $name"

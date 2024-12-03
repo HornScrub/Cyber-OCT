@@ -5,4 +5,3 @@
 # Date of latest revision: 
 # Purpose: Print a string to the terminal
 
-echo Hello
